@@ -1,0 +1,3 @@
+O saldo de hoje não diz em que dia o caixa vai apertar. No Fluxo de Caixa do FlyERP, o saldo das contas aparece projetado para os próximos dias, com as despesas recorrentes e os contratos ativos já considerados. Dá para ver o aperto antes de ele chegar. Chama no direct e agende uma demonstração.
+
+#fluxodecaixa #gestaofinanceira #planejamentofinanceiro
